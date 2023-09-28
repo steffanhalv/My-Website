@@ -1,8 +1,9 @@
 <template>
-    <router-view /> </template>
+	<router-view /> </template>
 <script>
-    export default {
-        data: () => ({})
-    };
+	export default {
+		data: () => ({})
+	};
+
 </script>
 <style></style>
