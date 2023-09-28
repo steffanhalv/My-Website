@@ -36,7 +36,7 @@
 				</button> </section>
 			<section>
 				<PublicComponent
-					class="mt-6 mx-auto"
+					class="mt-12 mx-auto"
 					style="width:893px;height:258px"
 				>
 				</PublicComponent>
